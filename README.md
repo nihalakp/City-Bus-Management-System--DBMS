@@ -1,6 +1,18 @@
-# BusBooking
-Online Bus ticketing system
+# City Bus Management System
 
-![Homepage](screenshots/homepage.png?raw=true "Homepage")
-![Bus Seat booking](screenshots/reg-form.png?raw=true "Book Seats")
-![Register Users](screenshots/reg-form1.png?raw=true "Rigister Users/Owners")
+These files are all in the path of \xampp\htdocs\Ticket1
+
+The server used is xampp, and the Apache and MySQL servers must be running, before loading pages in the browser.
+
+
+http://localhost:8080/phpmyadmin/
+
+is the url for access to the backend
+
+
+http://localhost:8080/Ticket1/
+
+is the url for the main site.
+
+
+Screenshots have been included in the final report submitted (offline).
