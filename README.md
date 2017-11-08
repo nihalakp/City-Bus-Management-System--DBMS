@@ -19,3 +19,4 @@ is the url for the main site.
 
 
 Screenshots have been included in the final report submitted (offline).
+The poster submitted as a part of the project has also been added to the repository.
