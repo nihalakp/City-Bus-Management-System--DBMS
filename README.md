@@ -1,3 +1,6 @@
+#Contributors: NIHALA KARAPOOLA (15CO231)
+#	       PUSHPITA PATIL (15CO235)
+
 # City Bus Management System
 
 These files are all in the path of \xampp\htdocs\Ticket1
